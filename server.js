@@ -1,0 +1,1 @@
+// server.js\nconst http = require(\;'http\;');\nconst { handleAuth } = require(\;'./auth\;');\nconst { handleTasks } = require(\;'./tasks\;');\nconst PORT = process.env.PORT || 4000;\nhttp.createServer((req, res) => { /* route requests */ }).listen(PORT, () => console.log(`Server on ${PORT}`));
