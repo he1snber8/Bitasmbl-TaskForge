@@ -1,0 +1,1 @@
+// tasks.js\n// Use in-memory array or connect to DB\nasync function handleTasks(req, res) { /* auth check, CRUD logic */ }\nmodule.exports = { handleTasks };
