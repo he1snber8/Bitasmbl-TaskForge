@@ -1,0 +1,1 @@
+// auth.js\nconst jwt = require(\;'jsonwebtoken\;');\nconst SECRET = process.env.JWT_SECRET;\nasync function handleAuth(req, res) { /* parse req, create/verify user, issue token */ }\nmodule.exports = { handleAuth };
