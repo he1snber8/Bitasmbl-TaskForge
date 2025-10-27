@@ -1,0 +1,1 @@
+// Run npm init -y\n{\n \;name\;: \;task-manager\;, \;version\;: \;1.0.0\;, \;scripts\;: {\;start\;: \;node server.js\;}, \;dependencies\;: {\;jsonwebtoken\;: \;^8.5.1\;}\n}
